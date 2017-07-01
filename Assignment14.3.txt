@@ -1,0 +1,24 @@
+Solution:
+JOSN is as follows 
+{
+“success”:1
+“mails”:[
+{
+“sender_name”: “Vignesh”,
+“Description”: “Hi, I am Vignesh”,
+“date”: “Nov 8”,
+“starred”:1,
+“attachment”: 1,
+“subject”: “Welcome”
+},
+{
+“sender_name”: “Nishanth”,
+“Description”: “Hi, I am Nishanth.”,
+“date”: “Dec 2”,
+“starred”:0,
+“attachment”: 0,
+“subject”: “Greeting”
+},
+
+]
+}
